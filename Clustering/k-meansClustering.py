@@ -150,10 +150,3 @@ if (converged):
     
 else:
     print("k-means clustering could not converge!")
-
-
-    
-            
-        
-         
- 
